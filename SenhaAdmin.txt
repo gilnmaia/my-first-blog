@@ -1,0 +1,3 @@
+login: djangotutorial
+email: djangotutorial@djangotutorial.com.br
+senha: djangotutorial
